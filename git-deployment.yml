@@ -23,3 +23,5 @@ spec:
             - containerPort: 80
               protocol: TCP
           imagePullPolicy: Always
+
+
